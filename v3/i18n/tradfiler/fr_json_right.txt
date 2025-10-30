@@ -1,55 +1,39 @@
 
 « M³ Translator »,
-
 « Le merveilleux et puissant code Morse »,
-
-Code Morse sur Google Play ! »,
-
+«Code Morse sur Google Play ! »,
 « Et sur le Chrome Web Store ! »,
-
 « Utilisez-le sur votre téléphone ! »,
-
 « Ou… vous pouvez me faire un p'tit don »,
-
 « Je ne veux pas voir l'écran d'instructions »,
-
 « Si vous entrez de l’anglais, des chiffres, etc. »,
-
 « Entrez du code morse »,
-
 « Le code Morse s’affichera alors ici »,
-
 « analyser »,
-
 « analyseur »,
-
 « traduction »,
-
 « traducteur »,
-
 « code Morse »,
-
-Définition automatique
+«Définition automatique»,
 « Abkhaze »,
-Azéri,
-« Angleterre »,
+«Azéri»,
 « Arabie »,
+«CesskaZbrodzovka»,
+"Prussien allemand",
+«Hébreu»,
 "Arménien",
 "Grec",
-"Géorgien-Kartvélien",
-"Hébreu",
+« Angleterre »,
+« Persan »,
+« Japonais »,
+«Géorgien kartvélien»,
 "Coréen",
-"Margali",
-« Allemand-Prussien »,
 "Ossétien",
 "Portugais",
 « Russie »,
-« Persan »,
-"Suédois-Gruvar",
-Cesska-Zbrodzovka,
-« Japonais »,
-
-Soumettre un avis,
+"SuédoisGruvar",
+"Margalit",
+«Soumettre un avis»,
 
 "<span class='quote'>Appel à tous. C'est notre dernier cri avant le silence éternel."</span> <span class='source'>La Marine française a cessé d'utiliser le code Morse le 31 janvier 1997. Ceci est le dernier message transmis</span>",
 <span class='quote'> · · · · 　· · </span> <br> <span class='quote'> – · · – 　– – – </span> <span class='source'>Laisse-moi entrer (film)</span>",
