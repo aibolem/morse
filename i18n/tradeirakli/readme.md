@@ -6,6 +6,8 @@ Aibolem bARI/ONleg traderAuction tåkliჼ ПЭРµвh²оДКА
 (v)
 ```
 
+3.0
+
 ```
 "lang_ab:"  "Abkhaz",
 "lang_az:"  "Azeri",
@@ -25,4 +27,25 @@ Aibolem bARI/ONleg traderAuction tåkliჼ ПЭРµвh²оДКА
 "lang_ru:"  "Russian",
 "lang_sv:"  "SwedishGruvar",
 "lang_xmf:"  "Margalit",
+```
+
+```
+"a_ab:"  "Abkhaz",
+"a_az:"  "Azeri",
+"a_ar:"  "Arabia",
+"a_cs:"  "CesskaZbrodzovka",
+"a_de:"  "GermanPrussian",
+"a_he:"  "Hebrew",
+"a_hy:"  "Armen",
+"a_el:"  "Greek",
+"a_en:"  "England",
+"a_fa:"  "Persian",
+"a_ja:"  "Japanese",
+"a_ka:"  "GeorgianKartvelian",
+"a_ko:"  "Korean",
+"a_os:"  "Ossetian",
+"a_pt:"  "Portuguese",
+"a_ru:"  "Russian",
+"a_sv:"  "SwedishGruvar",
+"a_xmf:"  "Margalit",
 ```
