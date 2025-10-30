@@ -15,14 +15,24 @@
 	translator:
 	lang_morse:
 	lang_auto:
-	lang_en:
-	lang_ko:
-	lang_ja:
-	lang_ru:
-	lang_gr:
-	lang_he:
-	lang_ar:
-	lang_pr:
+"lang_ab":
+"lang_az":
+"lang_ar":
+"lang_cs":
+"lang_de":
+"lang_he":
+"lang_hy":
+"lang_el":
+"lang_en":
+"lang_fa":
+"lang_ja":
+"lang_ka":
+"lang_ko":
+"lang_os":
+"lang_pt":
+"lang_ru":
+"lang_sv":
+"lang_xmf":
 	feedback:
 	message_0:
 	message_1:
